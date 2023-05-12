@@ -11,5 +11,7 @@ Sincerely,
 
 
 
-                                                                       Telecom Customer Churn Prediction
-![customer churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/024fad00-1b70-4774-89eb-4209d170abfe)
+                                                                Telecom Customer Churn Prediction
+"C:\Users\91812\Desktop\customer churn.jpeg"
+
+
