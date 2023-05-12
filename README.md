@@ -48,7 +48,10 @@ Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 ### Few glimpses of EDA:
 
 ## 1. Churn distribution:
-![Churn Distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/650c3a97-bd3b-4c90-8116-bc6cb6b9ffea)
+![Churn Distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/650c3a97-bd3b-4c90-8116-bc6cb6b9ffea)    A total of 26.6% of customers moved to a different company.
+
+## Distribution of churn based on gender:
+![distributionWRTGender](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/3f2acf07-0a11-4044-9cf9-a40738f698ae)
 
 
 
