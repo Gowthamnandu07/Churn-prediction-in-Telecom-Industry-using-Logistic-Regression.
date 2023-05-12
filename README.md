@@ -36,11 +36,20 @@ The key to succeeding in this market is the customer themselves. Customer churn 
 ## The data set includes information about:
 ➔ The column labeled Churn contains information about customers who have departed within the past month.
 
+➔ Information regarding the demographics of customers, including their gender, age group, and whether they have partners or dependents.
+
 ➔ The services that every client has subscribed to include phone, various lines, internet, online security, online backup, device safeguarding, technical assistance, and      streaming of television shows and films.
 
 ➔ Details regarding customer accounts include their tenure as a customer, contract status, payment mode, preference for paperless billing, monthly expenses, and overall        charges.
 
-➔ Information regarding the demographics of customers, including their gender, age group, and whether they have partners or dependents.
+### Implementation:
+Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
+
+### Few glimpses of EDA:
+
+## 1. Churn distribution:
+![Churn Distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/650c3a97-bd3b-4c90-8116-bc6cb6b9ffea)
+
 
 
 
