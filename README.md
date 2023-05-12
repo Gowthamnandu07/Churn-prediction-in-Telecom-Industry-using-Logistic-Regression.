@@ -103,7 +103,18 @@ New customers are more likely to churn.
 
 
 
+### Optimisers:
+We can use Hyperparameter tuning and Cross-validation ethods to improve the accuracy further.
 
+### Feedback:
+If you have any feedback, please reach out at {vgnunique@gmail.com}
+
+## 🚀 About Me
+Hi, I'm Gowtham! 👋
+I am Data science Enthusiast and ML practitioner.
+
+
+😉
 
 
 
