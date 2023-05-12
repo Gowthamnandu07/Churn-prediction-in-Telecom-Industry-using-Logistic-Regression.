@@ -31,6 +31,6 @@ The key to succeeding in this market is the customer themselves. Customer churn 
  
  
  ### Dataset:
- https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data
+[Telco customer churn🙂]([http://www.example.com](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data))
 
 
