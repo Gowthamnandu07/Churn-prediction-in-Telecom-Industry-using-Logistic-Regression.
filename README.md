@@ -24,4 +24,13 @@ In the telecom industry, customers have various service providers to choose from
 The key to succeeding in this market is the customer themselves. Customer churn is a crucial metric because it's more cost-effective to retain existing customers than to acquire new ones. To detect early signs of potential churn, firms must first develop a comprehensive understanding of their customers and their interactions across various channels. By addressing churn, businesses can not only preserve their market position but also grow and thrive. The more customers in their network, the lower the cost of initiation and the larger the profit. Therefore, the company's primary focus for success should be reducing client attrition and implementing effective retention strategies.
 
 
+### Objectives:
+ ➔ Determining the percentage of customers who churn and those who continue to use active services.
+ ➔ Examining the information based on different attributes that contribute to the departure of customers.
+ ➔ Discovering the optimal machine learning model for accurately distinguishing between Churn and non-Churn customers.
+ 
+ 
+ ### Dataset:
+ https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data
+
 
