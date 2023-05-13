@@ -26,8 +26,11 @@ The key to succeeding in this market is the customer themselves. Customer churn 
 
 ### Objectives:
 ➔ Discovering the optimal machine learning model for accurately distinguishing between Churn and non-Churn customers.
+
 ➔ Examining the information based on different attributes that contribute to the departure of customers.
+
 ➔ Determining the percentage of customers who churn and those who continue to use active services. 
+
   
  
 [Telco customer churn🙂](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data)
