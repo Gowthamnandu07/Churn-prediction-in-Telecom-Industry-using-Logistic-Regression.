@@ -11,7 +11,7 @@ Sincerely,
 
 
 
-                                                        Telecom Customer Churn Prediction
+                                        Telecom Customer Churn Prediction
 
 ![customer churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/6f88dff0-2238-4f0c-8b35-f9ecea26784f)
 
@@ -25,9 +25,9 @@ The key to succeeding in this market is the customer themselves. Customer churn 
 
 
 ### Objectives:
- ➔ Determining the percentage of customers who churn and those who continue to use active services.
- ➔ Examining the information based on different attributes that contribute to the departure of customers.
- ➔ Discovering the optimal machine learning model for accurately distinguishing between Churn and non-Churn customers.
+  ➔ Determining the percentage of customers who churn and those who continue to use active services.                                                                         
+  ➔ Examining the information based on different attributes that contribute to the departure of customers.
+  ➔ Discovering the optimal machine learning model for accurately distinguishing between Churn and non-Churn customers.
  
  
  ### Dataset:
