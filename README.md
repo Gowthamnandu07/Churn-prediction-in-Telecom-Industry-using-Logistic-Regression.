@@ -53,7 +53,8 @@ Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 ![Churn Distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/650c3a97-bd3b-4c90-8116-bc6cb6b9ffea)    A Total of 26.6% of customers moved to a different company.
 
 ## Distribution of churn based on gender:
-![distributionWRTGender](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/3f2acf07-0a11-4044-9cf9-a40738f698ae) The percentage/count of customers who switched service providers was almost identical for both genders. Both males and females exhibited similar behavior when it came to transitioning to a different service provider/company.
+![distributionWRTGender](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/3f2acf07-0a11-4044-9cf9-a40738f698ae)  
+The percentage/count of customers who switched service providers was almost identical for both genders. Both males and females exhibited similar behavior when it came to transitioning to a different service provider/company.
 
 ## 3. Customer Contract distribution:
 ![Contract distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e2385474-7e30-4b51-a411-d226110e6114) Out of the customers who had a Month-to-Month Contract, 75% decided to leave, while only 13% of those with a One Year Contract and 3% with a Two Year Contract chose to do so.
