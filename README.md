@@ -63,7 +63,8 @@ Out of the customers who had a Month-to-Month Contract, 75% decided to leave, wh
 
 ## 4. Payment Methods:
 ![payment methods](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/0b0ede76-a93b-4f44-8844-cb876294a540)
-![payment ethods with respectto churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/f8b45b17-5d11-44ca-8738-3912e2971f6b) 
+![payment ethods with respectto churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/f8b45b17-5d11-44ca-8738-3912e2971f6b) .
+
 The customers who discontinued their services primarily used Electronic Check as their payment method. However, those who chose Credit-Card automatic transfer, Bank Automatic Transfer, or Mailed Check as their payment method were more likely to remain as customers.
 
 ## 5. Internet services:
