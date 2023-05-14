@@ -57,17 +57,21 @@ Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 The percentage/count of customers who switched service providers was almost identical for both genders. Both males and females exhibited similar behavior when it came to transitioning to a different service provider/company.
 
 ## 3. Customer Contract distribution:
-![Contract distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e2385474-7e30-4b51-a411-d226110e6114) Out of the customers who had a Month-to-Month Contract, 75% decided to leave, while only 13% of those with a One Year Contract and 3% with a Two Year Contract chose to do so.
+![Contract distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e2385474-7e30-4b51-a411-d226110e6114) 
+Out of the customers who had a Month-to-Month Contract, 75% decided to leave, while only 13% of those with a One Year Contract and 3% with a Two Year Contract chose to do so.
 
 ## 4. Payment Methods:
 ![payment methods](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/0b0ede76-a93b-4f44-8844-cb876294a540)
-![payment ethods with respectto churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/f8b45b17-5d11-44ca-8738-3912e2971f6b) The customers who discontinued their services primarily used Electronic Check as their payment method. However, those who chose Credit-Card automatic transfer, Bank Automatic Transfer, or Mailed Check as their payment method were more likely to remain as customers.
+![payment ethods with respectto churn](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/f8b45b17-5d11-44ca-8738-3912e2971f6b) 
+The customers who discontinued their services primarily used Electronic Check as their payment method. However, those who chose Credit-Card automatic transfer, Bank Automatic Transfer, or Mailed Check as their payment method were more likely to remain as customers.
 
 ## 5. Internet services:
-![internet services](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e76dc7fe-3f5d-46a8-ac16-e574fd5adb7d) The Fiber optic service is favored by many customers, but it appears that those who use it tend to have a higher churn rate, which could indicate dissatisfaction with this type of internet service. On the other hand, the majority of customers use DSL service and experience a lower churn rate in comparison to Fiber optic service.
+![internet services](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e76dc7fe-3f5d-46a8-ac16-e574fd5adb7d) 
+The Fiber optic service is favored by many customers, but it appears that those who use it tend to have a higher churn rate, which could indicate dissatisfaction with this type of internet service. On the other hand, the majority of customers use DSL service and experience a lower churn rate in comparison to Fiber optic service.
 
 ## 6. Dependent distribution:
-![Telecom_Churn_Prediction-e1587281300645](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/939cea37-4ac7-4432-ad10-65d3d97b08d3) There is a higher probability of customers churning if they do not have any dependents.
+![Telecom_Churn_Prediction-e1587281300645](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/939cea37-4ac7-4432-ad10-65d3d97b08d3)
+There is a higher probability of customers churning if they do not have any dependents.
 
 ## 7. Online Security:
 ![onlineSecurity](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/89c209fd-cd96-491c-990e-2e7a3c921d1a)
