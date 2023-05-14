@@ -84,7 +84,8 @@ The graph below illustrates that the majority of customers churn because of inad
 The majority of senior citizens tend to leave, as they make up a small proportion of the overall customer base.
 
 ## 9. Paperless Billing:
-![seniorCitzen](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/1427406d-332d-4cd5-8dbe-7a2d291471ab)
+![billing](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/f3a29b9e-8d42-49c1-9ef3-500120b5ecd8).
+
 The probability of customers churning is higher for those who opt for Paperless Billing.
 
 ## 10. Tech support:
