@@ -58,7 +58,7 @@ The percentage/count of customers who switched service providers was almost iden
 
 ## 3. Customer Contract distribution:
 ![Contract distribution](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/e2385474-7e30-4b51-a411-d226110e6114) 
-Out of the customers who had a Month-to-Month Contract, 75% decided to leave, while only 13% of those with a One Year Contract and 3% with a Two Year Contract chose to do so.
+                 Out of the customers who had a Month-to-Month Contract, 75% decided to leave, while only 13% of those with a One Year Contract and 3% with a Two Year Contract chose to do so.
 
 ## 4. Payment Methods:
 ![payment methods](https://github.com/Gowthamnandu07/Churn-prediction-in-Telecom-Industry-using-Logistic-Regression./assets/118471519/0b0ede76-a93b-4f44-8844-cb876294a540)
